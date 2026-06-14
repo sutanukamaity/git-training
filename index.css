@@ -1,3 +1,8 @@
 body {
-    bgcolor: lightblue;
+    caret-color: lightblue;
+}
+
+title {
+    color: red;
+    text-align: center;
 }
